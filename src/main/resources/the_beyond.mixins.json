@@ -9,6 +9,7 @@
     "BlockBehaviourMixin",
     "FallingBlockEntityAccessor",
     "PistonStructureResolverMixin",
+    "NoiseGeneratorSettingsAccessor",
     "RandomStateMixin",
     "RefugeHungerMixin"
   ],
