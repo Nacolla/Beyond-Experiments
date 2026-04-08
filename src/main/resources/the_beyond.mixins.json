@@ -11,7 +11,13 @@
     "PistonStructureResolverMixin",
     "NoiseGeneratorSettingsAccessor",
     "RandomStateMixin",
-    "RefugeHungerMixin"
+    "RefugeHungerMixin",
+    "BiomeSourceSanitizerMixin",
+    "RegistryFileCodecMixin",
+    "MultiNoiseBiomeSourceMixin",
+    "EndWeatherMixin",
+    "EndWeatherSyncMixin",
+    "TheEndBiomeSourceMixin"
   ],
   "server": [],
   "injectors": {

@@ -28,7 +28,7 @@
     "the_beyond:ceiling_void_crystal"
     ]
   ],
-  "has_precipitation": false,
+  "has_precipitation": true,
   "spawn_costs": {},
   "spawners": {
     "ambient": [],
